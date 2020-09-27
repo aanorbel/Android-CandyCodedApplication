@@ -65,7 +65,7 @@
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -92,6 +92,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -173,6 +189,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
@@ -201,22 +218,22 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="485" y="430" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1601237121179" />
-    <state width="1209" height="278" key="GridCell.Tab.0.bottom" timestamp="1601238840315">
+    <state width="1209" height="278" key="GridCell.Tab.0.bottom" timestamp="1601239099076">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1209" height="278" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1601238840315" />
-    <state width="1209" height="278" key="GridCell.Tab.0.center" timestamp="1601238840314">
+    <state width="1209" height="278" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1601239099076" />
+    <state width="1209" height="278" key="GridCell.Tab.0.center" timestamp="1601239099076">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1209" height="278" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1601238840314" />
-    <state width="1209" height="278" key="GridCell.Tab.0.left" timestamp="1601238840314">
+    <state width="1209" height="278" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1601239099076" />
+    <state width="1209" height="278" key="GridCell.Tab.0.left" timestamp="1601239099075">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1209" height="278" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1601238840314" />
-    <state width="1209" height="278" key="GridCell.Tab.0.right" timestamp="1601238840315">
+    <state width="1209" height="278" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1601239099075" />
+    <state width="1209" height="278" key="GridCell.Tab.0.right" timestamp="1601239099076">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1209" height="278" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1601238840315" />
+    <state width="1209" height="278" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1601239099076" />
     <state x="302" y="249" key="search.everywhere.popup" timestamp="1601238174798">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
